@@ -8,7 +8,7 @@ Website Taqqia craft ini menggunakan HTML, CSS dan Bootstrap untuk frontend seda
 # Rancangan basis data
 
 Database Produk
-| id  | nama | harga | deskripsi| gambar|
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| id            | nama          | harga | deskripsi| gambar|
+| ------------- | ------------- | harga | deskripsi| gambar|
+| Content Cell  | Content Cell  | harga | deskripsi| gambar|
+| Content Cell  | Content Cell  | harga | deskripsi| gambar|
