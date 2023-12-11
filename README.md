@@ -9,10 +9,6 @@ Website Taqqia craft ini menggunakan HTML, CSS dan Bootstrap untuk frontend seda
 
 Database Produk
 | id            | nama          | harga | deskripsi| gambar|
-| ------------- | ------------- | harga | deskripsi| gambar|
-| Content Cell  | Content Cell  | harga | deskripsi| gambar|
-| Content Cell  | Content Cell  | harga | deskripsi| gambar|
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| ------------- | ------------- | ----- | -------- | ------|
+| 1  | Tas Bunga  | Rp.250000 | Tas bunga bermotif kain perca bunga| gambar.jpg|
+| 1  | Tas rumah  | Rp.250000 | Tas rumah bermotif kain perca rumah| gambar.jpg|
