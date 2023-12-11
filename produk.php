@@ -1,3 +1,7 @@
+<?php
+require("connection.php");
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -17,7 +21,7 @@
 			<li><a href="bikin.php">Create Product</a></li>
 			<li><a href="Dashboard.php">Workshop</a></li>
 			<li><a href="About us.php">About us</a></li>
-			<li><a href="index.php">Upload</a></li>
+			<li><a href="index.php">Admin</a></li>
 		</ul>
 		<hr>
 	</div>
